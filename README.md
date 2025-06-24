@@ -98,7 +98,7 @@
 > Do **not** share this URL publicly — it's unique to your tracker.
 
 
-> [!INFO]
+
 > ## Paste & Authorize the Script  
 > Once you've added the code:  
 > - Click the **Run ▶️ button** in the Apps Script editor.  
@@ -120,7 +120,7 @@
 > ## Use Responsibly to Avoid Account or Domain Issues  
 > Do **not exceed your daily email limits**:
 > - **500/day** for normal Gmail accounts  
-> - **2,000/day** for Google Workspace (professional) accounts  
+> - **1,500/day** for Google Workspace (professional) accounts  
 >
 > ⚠️ If you cross these limits or send poorly formatted/spammy emails:
 > - Your account may get **temporarily blocked or suspended**
@@ -135,15 +135,8 @@
 <br>
 
 ## 👨‍💻 Author
+For questions or support, reach out to:  
 
-<table>
-  <tr>
-    <td><strong>Name:</strong></td>
-    <td>Firoz Shaikh</td>
-  </tr>
-  <tr>
-    <td><strong>Email:</strong></td>
-    <td><a href="mailto:buildbyfiroz@icloud.com">buildbyfiroz@icloud.com</a></td>
-  </tr>
-</table>
+- [@buildwithfiroz](https://github.com/buildwithfiroz)
+- buildbyfiroz@icloud.com  
 
