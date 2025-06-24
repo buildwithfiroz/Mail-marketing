@@ -3,7 +3,7 @@ function sendEmails() {
   var data = sheet.getDataRange().getValues();
   var subject = "Tracking Mail with Click Tracking";
 
-  var scriptUrl = "https://script.google.com/macros/s/AKfycbxHpz6-EgPDCjA658GpMJp5MMBWMRv_VffF20OneQParzw_C5A-wQt5sqQhIQ_ILCL4-Q/exec"; // Replace with your script URL
+  var scriptUrl = ""; // Replace with your script URL
 
   for (var i = 1; i < data.length; i++) {
     var name = data[i][0];
