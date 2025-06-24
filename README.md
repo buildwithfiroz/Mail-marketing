@@ -6,10 +6,10 @@
 <p>A lightweight Gmail marketing system powered entirely by Google Sheets and Apps Script. Supports sending up to <b><i> 2,000 emails/days</b> (for professional accounts) or <b>500/day</b> </i> (normal accounts), with real-time tracking for opens, clicks on CTA, and total emails sent — all without any external tools or platforms.</p>
 
 <p align="left">
-  <img width='10%' src="https://img.shields.io/badge/Google-EA4335?logo=google&logoColor=white&style=plastic" alt="Google" /> &nbsp;
-  <img width='9%' src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic" alt="Gmail" /> &nbsp;
-  <img width='13%' src="https://img.shields.io/badge/Apps%20Script-4285F4?logo=google-apps-script&logoColor=white&style=plastic" alt="Google Apps Script" /> &nbsp;
-  <img width='14%' src="https://img.shields.io/badge/Automation-FFCA28?logo=autoprefixer&logoColor=black&style=plastic" alt="Automation" /> &nbsp;
+  <img width='13%' src="https://img.shields.io/badge/Google-EA4335?logo=google&logoColor=white&style=plastic" alt="Google" /> &nbsp;
+  <img width='11%' src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic" alt="Gmail" /> &nbsp;
+  <img width='17%' src="https://img.shields.io/badge/Apps%20Script-4285F4?logo=google-apps-script&logoColor=white&style=plastic" alt="Google Apps Script" /> &nbsp;
+  <img width='18%' src="https://img.shields.io/badge/Automation-FFCA28?logo=autoprefixer&logoColor=black&style=plastic" alt="Automation" /> &nbsp;
 </p>
 
 <br><br>
