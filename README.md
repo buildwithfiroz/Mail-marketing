@@ -47,7 +47,7 @@
 > [!IMPORTANT]
 > <p>The {{click-tracking-url}}, {{name}}, and {{tracking-pixel-url}} variables are critically important — <br>they are dynamically replaced at runtime using JavaScript/Apps 
 > Script to track email opens and CTA clicks.
-> Do not remove or hardcode these — they enable tracking logic in the system.</p> <br><br>
+> Do not remove or hardcode these — they enable tracking logic in the system.</p> 
 > <pre>  "{{click-tracking-url}}" | {{name}} | "{{tracking-pixel-url}}"  </pre>
 
 ---
