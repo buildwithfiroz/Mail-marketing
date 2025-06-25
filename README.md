@@ -37,6 +37,18 @@
 > You can customize the columns to include anything else your email system might need.<br>
 >
 > ![Excel](src/excel.png)
+>
+> 
+> You can - add the Email Body as well from the google sheet itself
+>
+> ![Excel](src/image.png)
+>
+
+> [!IMPORTANT]
+> <p>The {{click-tracking-url}}, {{name}}, and {{tracking-pixel-url}} variables are critically important — <br>they are dynamically replaced at runtime using JavaScript/Apps 
+> Script to track email opens and CTA clicks.
+> Do not remove or hardcode these — they enable tracking logic in the system.</p> <br><br>
+> <pre>  "{{click-tracking-url}}" | {{name}} | "{{tracking-pixel-url}}"  </pre>
 
 ---
 
