@@ -76,10 +76,10 @@
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td style="padding: 0; vertical-align: top; width: 33%;">
-      <img src="src/email-marketing.png" alt="Step 2" style="width: 100%; height: 100%; object-fit: cover;" />
+      <img src="src/email-marketing.png" alt="Step 2" object-fit: cover;" />
     </td>
     <td style="padding: 0; vertical-align: top; width: 33%;">
-      <img src="src/access.png" alt="Step 3" style="width: 100%; height: 100%; object-fit: cover;" />
+      <img src="src/access.png" alt="Step 3" object-fit: cover;" />
     </td>
   </tr>
 </table>
