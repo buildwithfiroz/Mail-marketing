@@ -1,9 +1,20 @@
 <h1 align="left" style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/gmail--v1.png" width="35" style="border-radius: 50%; margin-right: 10px;" />
-  Gmail Marketing
+  Gmail Marketing Automation with Google Sheets & Apps Script.
 </h1>
 
-<p>A lightweight Gmail marketing system powered entirely by Google Sheets and Apps Script. Supports sending up to <b><i> 2,000 emails/days</b> (for professional accounts) or <b>500/day</b> </i> (normal accounts), with real-time tracking for opens, clicks on CTA, and total emails sent — all without any external tools or platforms.</p>
+<br>
+ 
+This open-source (Free Bulk Email Tool) project lets you run **Gmail marketing campaigns directly from Google Sheets** using **Google Apps Script**. No Mailchimp, no paid tools — just **Gmail automation for bulk email sending**.
+
+> [!Tip]
+> - Send up to **500–2,000 emails/day** directly from Gmail  
+> - Real-time tracking of **opens, clicks, and delivery**  
+> - 100% free — powered by **Google Sheets + Apps Script**  
+> - No external tools, no paid subscriptions  
+> - Lightweight & secure, runs in your **Google account**  
+
+ <br><br>
 
 <p align="left">
   <img width='13%' src="https://img.shields.io/badge/Google-EA4335?logo=google&logoColor=white&style=plastic" alt="Google" /> &nbsp;
@@ -11,6 +22,8 @@
   <img width='17%' src="https://img.shields.io/badge/Apps%20Script-4285F4?logo=google-apps-script&logoColor=white&style=plastic" alt="Google Apps Script" /> &nbsp;
   <img width='18%' src="https://img.shields.io/badge/Automation-FFCA28?logo=autoprefixer&logoColor=black&style=plastic" alt="Automation" /> &nbsp;
 </p>
+
+
 
 <br><br>
 
@@ -108,9 +121,6 @@
 > [!WARNING]
 > ![Deploy](src/mail.png)
 > Do **not** share this URL publicly — it's unique to your tracker.
-
-
-
 > ## Paste & Authorize the Script  
 > Once you've added the code:  
 > - Click the **Run ▶️ button** in the Apps Script editor.  
@@ -123,10 +133,17 @@
 
 ---
 
-> [!Tip]
-> Professional mail - **1,500 emails/days** <br>
-> Gmail account (not Google Workspace), - **500/day**. 
+
 <br>
+
+
+## 🐞 Common Issues & Fixes
+- **Authorization Error** → Run the script once manually and click “Allow.”  
+- **Emails not sending** → Check Gmail daily quota (500/2000).  
+- **Tracking not working** → Ensure you pasted your Web App URL in `main.gs`.  
+- **Emails in spam/promotions** → Avoid spammy words, configure SPF/DKIM, personalize content.
+
+<br> <br>
 
 > [!CAUTION]
 > ## Use Responsibly to Avoid Account or Domain Issues  
@@ -146,9 +163,49 @@
 
 <br>
 
-## 👨‍💻 Author
-For questions or support, reach out to:  
 
-- [@buildwithfiroz](https://github.com/buildwithfiroz)
-- buildbyfiroz@icloud.com  
+
+## ❓ FAQ
+
+### Can I send bulk emails with Gmail for free?  
+- Yes! This tool allows you to send up to **500 emails/day (Gmail)** or **1,500 emails/day (Google Workspace)**.  
+
+### Does this work like Mailchimp?  
+- Similar concept, but 100% free and fully inside **Google Sheets**.  
+
+### Can I track if my emails are opened or clicked?  
+- Yes, this script uses a **tracking pixel** for opens and custom **CTA links** for clicks.  
+
+
+
+
+<br>
+
+## 👨‍💻 Author
+
+<br>
+
+This project is built and maintained by [@buildwithfiroz](https://github.com/buildwithfiroz) 
+
+<br>
+
+If you found this useful, consider giving it a ***⭐️ on GitHub*** or contributing to improve it further!
+
+<br>
+
+<p align="left">
+  <a href="mailto:buildbyfiroz@icloud.com">
+  <img src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=for-the-badge" alt="Email" /></a> &nbsp;
+    <a href="https://github.com/buildwithfiroz">
+    <img width='220' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=for-the-badge" alt="GitHub" /></a> &nbsp;
+</p>
+
+
+
+---
+
+
+<br>
+
+<p align="center"><b>Made with ❤️ by Firoz</b></p>
 
